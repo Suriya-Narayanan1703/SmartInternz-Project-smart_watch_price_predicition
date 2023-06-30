@@ -15,5 +15,6 @@ So basically this repository has 5 folders excluding readme.md file
    
 5) Then I have "SmartInternz Assignment-1,2,3" folder where I have three Assignments given by the SmartInternz during the training session with both "pdf" files and "ipynb" files.
 
-6) Last Here I have mention the project explanation video link as drive link: https://drive.google.com/file/d/11shU3i6AqccZDstosNd4HLgVBcAmMS81/view?usp=sharing
+6) Last Here I have mention the project explanation video link as drive link: https://drive.google.com/file/d/11shU3i6AqccZDstosNd4HLgVBcAmMS81/view?usp=sharing  also i have made a seperate two folders for video where "video file" has drive link which I mentioned and the "demo video for 2-3 mintues" has short rehearse and brief explanation video for 2-3 minutes. So in short for full length video use the drive link and for the demo video it's in the folder itself.
+
     
